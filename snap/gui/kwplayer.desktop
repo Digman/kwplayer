@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Kw Player
+GenericName=KwPlayer
+Comment=Music player for kwplayer 
+Keywords=music,kwplayer
+Exec=kwplayer
+Icon=${SNAP}/meta/gui/kwplayer.svg
+Terminal=false
+StartupNotify=true
